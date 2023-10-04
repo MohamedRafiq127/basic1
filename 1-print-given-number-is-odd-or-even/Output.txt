@@ -1,0 +1,12 @@
+/*Find given number is Positive or Negative*/
+Enter a number
+0
+Given number is Neutral 0
+
+Enter a number
+23
+Given number is Positive 23
+
+Enter a number
+-23
+Given number is Negative -23
