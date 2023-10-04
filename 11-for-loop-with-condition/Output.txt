@@ -1,0 +1,52 @@
+Enter a number:
+50
+1
+2
+accord
+4
+infomatrix
+accord
+7
+8
+accord
+infomatrix
+11
+accord
+13
+14
+accord infomatrix
+16
+17
+accord
+19
+infomatrix
+accord
+22
+23
+accord
+infomatrix
+26
+accord
+28
+29
+accord infomatrix
+31
+32
+accord
+34
+infomatrix
+accord
+37
+38
+accord
+infomatrix
+41
+accord
+43
+44
+accord infomatrix
+46
+47
+accord
+49
+infomatrix
