@@ -1,0 +1,3 @@
+Enter a number:
+23
+sum of given natural number : 276
