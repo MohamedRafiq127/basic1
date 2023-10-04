@@ -1,0 +1,3 @@
+Enter a number
+123021
+Reversed number is 120321
