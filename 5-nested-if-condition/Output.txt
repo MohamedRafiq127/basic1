@@ -1,0 +1,11 @@
+Enter a age: 
+23
+Enter a salary: 
+26000
+Age is 23 & Salary 26000 -loan sanctioned
+
+Enter a age: 
+20
+Enter a salary: 
+18000
+Loan rejected
