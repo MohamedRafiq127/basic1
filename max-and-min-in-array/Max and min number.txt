@@ -1,0 +1,2 @@
+The minimum number in given array is: 1
+The maximum number in given array is: 658
