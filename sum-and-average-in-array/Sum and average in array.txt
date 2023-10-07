@@ -1,0 +1,8 @@
+enter five number 
+1
+2
+22
+2
+2
+sum=29
+avg=5
