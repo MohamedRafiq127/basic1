@@ -1,0 +1,13 @@
+Please enter 10 numbers: 
+1
+2
+3
+7
+78
+8
+9
+425
+725
+857
+Even numbers:
+2 78 8 
