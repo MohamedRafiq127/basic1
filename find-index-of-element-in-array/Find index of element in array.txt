@@ -1,0 +1,2 @@
+The given target exists in :-1 element
+The given target exists in: 10 element
