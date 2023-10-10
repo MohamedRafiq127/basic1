@@ -1,0 +1,17 @@
+4
+R
+true
+Rafi loves java
+Reversed string is:  ifaR
+Rafi java
+Raf
+Rafi
+false
+rafi
+Name:Rafi
+Rafi
+Rafilovesjava
+[B@ea4a92b[B@ea4a92b[B@ea4a92b[B@ea4a92b
+-24
+5
+18
